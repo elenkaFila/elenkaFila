@@ -1,4 +1,5 @@
-<h1 align="center">Hello! I'm Elena Filatova.&nbsp I'm from Russian Federation, Saint-Petersburg</h1>
+<h1 align="center">Hello! I'm Elena Filatova.</h1>
+<h2 align="center">I'm from Russian Federation, Saint-Petersburg</h2>
 
 - 👋 I'm a QA Automation Specialist
 - 🗣️[Telegram](https://t.me/elenka_fila)
@@ -41,11 +42,20 @@ Autotests
 My test projects in github:
 
 UI testing:
-- [Pytest + Selenium + Allure + Docker + Github-actions + Github-pages]&nbsp (https://github.com/elenkaFila/pytest-allure-report-with-history-using-docker)&nbsp report (https://elenkafila.github.io/pytest-allure-report-with-history-using-docker/)
-- [Pytest + Selenium + Allure]&nbsp (https://github.com/elenkaFila/opencart-selenium-pytest/tree/main)
+- [Pytest + Selenium + Allure + Docker + Github-actions + Github-pages]
+  (https://github.com/elenkaFila/pytest-allure-report-with-history-using-docker)
+  report (https://elenkafila.github.io/pytest-allure-report-with-history-using-docker/)
+
+- [Pytest + Selenium + Allure]
+  (https://github.com/elenkaFila/opencart-selenium-pytest/tree/main)
 
 API testing:
-- [Pytest + pydantic + requests + Faker + Allure + Docker + Github-actions + Github-pages]&nbsp (https://github.com/elenkaFila/pytest_api_testing)&nbsp report (https://elenkafila.github.io/pytest_api_testing/)
-- [Postman + Newman + Github-actions + Github-pages]&nbsp (https://github.com/elenkaFila/Postman_Newman_Report_on_Github_pages)&nbsp report ( https://elenkafila.github.io/Postman_Newman_Report_on_Github_pages/)
+- [Pytest + pydantic + requests + Faker + Allure + Docker + Github-actions + Github-pages]
+  (https://github.com/elenkaFila/pytest_api_testing)
+  report (https://elenkafila.github.io/pytest_api_testing/)
+
+- [Postman + Newman + Github-actions + Github-pages]
+  (https://github.com/elenkaFila/Postman_Newman_Report_on_Github_pages)
+  report ( https://elenkafila.github.io/Postman_Newman_Report_on_Github_pages/)
 
 </h3>
