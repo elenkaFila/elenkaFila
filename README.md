@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Elena Filatova. I'm from Russian Federation, Saint-Petersburg</h1>
+<h1 align="center">Hello! I'm Elena Filatova.&nbsp I'm from Russian Federation, Saint-Petersburg</h1>
 
 - 👋 I'm a QA Automation Specialist
 - 🗣️[Telegram](https://t.me/elenka_fila)
@@ -37,6 +37,7 @@ Autotests
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
+<h3>
 My test projects in github:
 
 UI testing:
@@ -46,3 +47,5 @@ UI testing:
 API testing:
 - [Pytest + pydantic + requests + Faker + Allure + Docker + Github-actions + Github-pages]&nbsp (https://github.com/elenkaFila/pytest_api_testing)&nbsp report (https://elenkafila.github.io/pytest_api_testing/)
 - [Postman + Newman + Github-actions + Github-pages]&nbsp (https://github.com/elenkaFila/Postman_Newman_Report_on_Github_pages)&nbsp report ( https://elenkafila.github.io/Postman_Newman_Report_on_Github_pages/)
+
+</h3>
