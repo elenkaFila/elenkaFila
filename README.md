@@ -58,6 +58,10 @@ UI testing:
 - [Pytest + Selenium + Allure]
   (https://github.com/elenkaFila/opencart-selenium-pytest/tree/main)
 
+- [Cypress]
+  (https://github.com/elenkaFila/Cypress-UI-GithubActions)
+
+
 API testing:
 - [Pytest + pydantic + requests + Faker + Allure + Docker + Github-actions + Github-pages]
   (https://github.com/elenkaFila/pytest_api_testing)
