@@ -71,4 +71,7 @@ API testing:
   (https://github.com/elenkaFila/Postman_Newman_Report_on_Github_pages)
   report ( https://elenkafila.github.io/Postman_Newman_Report_on_Github_pages/)
 
+- [Cypress + Allure]
+  (https://github.com/elenkaFila/Cypress-api-testing)
+  report https://elenkafila.github.io/Cypress-api-testing/
 </h3>
