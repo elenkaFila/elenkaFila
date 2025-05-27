@@ -74,4 +74,8 @@ API testing:
 - [Cypress + Allure]
   (https://github.com/elenkaFila/Cypress-api-testing)
   report https://elenkafila.github.io/Cypress-api-testing/
+
+DB testing:
+- [Pytest + Docker + Postgress + Github-actions]
+  (https://github.com/elenkaFila/pytest_postgress_db)
 </h3>
